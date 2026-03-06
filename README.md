@@ -188,9 +188,9 @@ Threshold tuning is regression-tested to prevent false-ALLOW inflation
 
 ## Set Up
 
-      git clone <repo>
+      git clone https://github.com/paschal-godwin/deterministic-policy-decision-agent.git
       cd policy-decision-agent
-      
+
       pip install -r requirements.txt
 
       pip install -e .
