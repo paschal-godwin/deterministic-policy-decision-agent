@@ -1,0 +1,15 @@
+[project]
+name = "policy-decision-agent"
+version = "0.1.0"
+description = "Deterministic RAG system for policy compliance decisions"
+authors = [{name = "Paschal Godwin"}]
+dependencies = [
+    "streamlit",
+    "pydantic",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

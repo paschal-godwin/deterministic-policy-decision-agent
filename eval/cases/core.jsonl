@@ -1,0 +1,19 @@
+{"question": "Can we pay for hotel for a conference trip?", "facts": {"purpose": "Presenting NIH-funded research results", "federal_award": "NIH-R01-123", "budgeted_and_approved": true}, "expected_decision": "ALLOW"}
+
+{"question": "Can we pay for hotel for a conference trip?", "facts": null, "expected_decision": "UNCERTAIN"}
+
+{"question": "Is purchasing a printer allowable under this policy?", "facts": {"purpose": "Printing study consent forms", "federal_award": "NIH-R01-123", "estimated_cost": 800, "budgeted_and_approved": true}, "expected_decision": "ALLOW"}
+
+{"question": "Is purchasing a printer allowable under this policy?", "facts": null, "expected_decision": "UNCERTAIN"}
+
+{"question": "Can we use federal funds for employee holiday party catering?", "facts": {"purpose": "End-of-year staff celebration", "federal_award": "NIH-R01-123", "budgeted_and_approved": true}, "expected_decision": "NOT_ALLOW"}
+
+{"question": "Can we hire a consultant for statistical analysis?", "facts": {"purpose": "Advanced data modeling for NIH project", "federal_award": "NIH-R01-123", "estimated_cost": 15000, "budgeted_and_approved": true}, "expected_decision": "ALLOW"}
+
+{"question": "Can we buy an iPad for personal use of a researcher?", "facts": {"purpose": "Personal note-taking", "federal_award": "NIH-R01-123", "estimated_cost": 900, "budgeted_and_approved": true}, "expected_decision": "NOT_ALLOW"}
+
+{"question": "Are contingency reserve payments allowable?", "facts": null, "expected_decision": "NOT_ALLOW"}
+
+{"question": "Can we reimburse airfare for attending a research conference?", "facts": {"purpose": "Presenting funded research", "federal_award": "NIH-R01-123", "budgeted_and_approved": true}, "expected_decision": "ALLOW"}
+
+{"question": "Is purchasing laboratory equipment allowable?", "facts": {"purpose": "Equipment required for grant-funded experiment", "federal_award": "NIH-R01-123", "estimated_cost": 45000, "budgeted_and_approved": true}, "expected_decision": "ALLOW"}
